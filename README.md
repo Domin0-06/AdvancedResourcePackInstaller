@@ -12,7 +12,7 @@ Masz jakiś błąd? Koniecznie mi go zgłoś! Jak zgłosić błąd:
 4. Dokumentacja: Jeśli widzisz potrzebę dodatkowej dokumentacji, możesz ją dodać!
 
 ## Instrukcje
-1. Pobierz instalator
+1. Pobierz instalator (https://github.com/Domin0-06/AdvancedResourcePackInstaller/releases/tag/v1.0%2B)
 2. Zainstaluj aplikację
 3. Włącz aplikację
 4. Wgraj domyślną paczkę tekstur (po tej akcji wyświetli się coś, co pomoże wgrać własną paczkę tekstur :D)
